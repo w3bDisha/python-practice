@@ -1,4 +1,4 @@
-a = int(input("Enter first num: "))
-b = int(input("Enter sec num: "))
+firstname = str(input("Enter first name: "))
 
-print(a>=b)
+
+print("Your First name is", firstname)
