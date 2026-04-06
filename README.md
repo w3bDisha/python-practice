@@ -9,11 +9,10 @@ This repository contains my practice programs and mini projects as I learn Pytho
 
 ## 📚 Topics Covered
 - Variables and Data Types ✅
-- Loops 🔄 (in progress)
-- Lists & Dictionaries 🔄 (in progress)
-- Functions 🔄 (in progress)
+- Loops ✅
+- Lists & Dictionaries ✅
+- Functions ✅
 - File Handling ⏳
-- Exception Handling ⏳
 
 ## 🛠️ What I’m Doing
 - Practicing coding daily
