@@ -10,6 +10,7 @@ I am currently learning Python and building my programming skills step by step.
 This repository contains my practice programs and mini projects as I learn Python from basics to advanced.
 
 ## 📚 Topics Covered
+
 - Variables and Data Types ✅
 - Loops ✅
 - Lists & Dictionaries ✅
@@ -30,3 +31,4 @@ I am consistently improving my skills and updating this repository with new conc
 ---
 
 ✨ This is part of my journey to grow in tech and build a strong foundation.
+🚀 Stay tuned for more projects and improvements!
