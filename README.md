@@ -2,6 +2,8 @@
 # 💻 Python Practice Repository
 
 Hi! 👋  
+💡 Beginner Python Developer | BCA Student | Learning Daily
+
 I am currently learning Python and building my programming skills step by step.
 
 ## 🚀 About This Repository
@@ -11,7 +13,7 @@ This repository contains my practice programs and mini projects as I learn Pytho
 - Variables and Data Types ✅
 - Loops ✅
 - Lists & Dictionaries ✅
-- Functions ✅
+- Functions (in progress)
 - File Handling ⏳
 
 ## 🛠️ What I’m Doing
