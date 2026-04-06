@@ -17,6 +17,19 @@ This repository contains my practice programs and mini projects as I learn Pytho
 - Functions (in progress)
 - File Handling ⏳
 
+## 🚀 Projects
+
+### 🎯 Guess The Number Game
+A simple Python game where the user has to guess a randomly generated number.
+
+**Features:**
+- Random number generation
+- User input handling
+- Hints (Too High / Too Low)
+- Loop until correct guess
+
+📂 Folder: project/guess_the_number.py
+
 ## 🛠️ What I’m Doing
 - Practicing coding daily
 - Building small projects
