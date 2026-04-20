@@ -14,8 +14,10 @@ This repository contains my practice programs and mini projects as I learn Pytho
 - Variables and Data Types ✅
 - Loops ✅
 - Lists & Dictionaries ✅
-- Functions (in progress)
-- File Handling ⏳
+- Functions ✅
+- File Handling ✅
+- (OOPs part1) ✅
+- (OOPs part2) (in progress)
 
 ## 🚀 Projects
 
