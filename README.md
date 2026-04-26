@@ -17,7 +17,7 @@ This repository contains my practice programs and mini projects as I learn Pytho
 - Functions ✅
 - File Handling ✅
 - (OOPs part1) ✅
-- (OOPs part2) (in progress)
+- (OOPs part2) ✅
 
 ## 🚀 Projects
 
@@ -29,6 +29,8 @@ A simple Python game where the user has to guess a randomly generated number.
 - User input handling
 - Hints (Too High / Too Low)
 - Loop until correct guess
+
+- One more project is coming soon cause i have finally completed my python 
 
 📂 Folder: project/guess_the_number.py
 
