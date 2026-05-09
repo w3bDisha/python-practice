@@ -30,9 +30,16 @@ A simple Python game where the user has to guess a randomly generated number.
 - Hints (Too High / Too Low)
 - Loop until correct guess
 
-- One more project is coming soon cause i have finally completed my python 
+- 📂 Folder: project/guess_the_number.py
 
-📂 Folder: project/guess_the_number.py
+### 📝 To-Do List App
+A command-line app to manage daily tasks.
+**Features:**
+- Add tasks
+- View all tasks
+- Mark tasks as done ✅
+- Delete tasks
+📂 Folder: project/to-do-list.py
 
 ## 🛠️ What I’m Doing
 - Practicing coding daily
